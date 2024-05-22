@@ -1,4 +1,4 @@
-# time_series_visualisation
+# time_series_visualization
 This is an insight into time series plots and different methods of visualisation. 
 
 We will cover 5 different plots: 
