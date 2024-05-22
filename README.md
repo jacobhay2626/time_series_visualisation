@@ -69,6 +69,6 @@ Technical analysts will use autocorrelation to measure how much influence past p
 
 # Break Point 
 
-A breakpoint is a structural change in data, such as an anomaly or an unexpected event. In time series plots this is uually a change in mean or change in the other parameters of the process that produce the series. 
+A breakpoint is a structural change in data, such as an anomaly or an unexpected event. In time series plots this is a change in mean or change in the other parameters of the process that produce the series. 
 
 ![](visualisations/Autocorrelation+Seasonality+Noise+Trend+BreakPoint.png)
